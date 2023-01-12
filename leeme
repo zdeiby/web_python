@@ -1,0 +1,8 @@
+pip install flask
+pip intall virtualenv
+python -m venv venv    
+
+cd venv/scripts
+ python ../../src/index.py
+
+ pip install gunicorn
